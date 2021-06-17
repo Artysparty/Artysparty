@@ -11,6 +11,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript)
 
 ### Back-end
-![C#](https://img.shields.io/badge/-C#-0d1117?style=for-the-badge&logo=csharp)'
+![CSHARP](https://img.shields.io/badge/-C#-0d1117?style=for-the-badge&logo=csharp)'
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=sql)
