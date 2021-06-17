@@ -13,4 +13,4 @@
 ### Back-end
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-0d1117?style=for-the-badge&logo=c#)
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql)
