@@ -1,4 +1,4 @@
-# Hi, my name is **Artyom Kozlov**!
+# :wave: Hi, my name is **Artyom Kozlov**!
 ## I'm beginner *developer* from Moscow.
 
 ### Languages and Technologies
