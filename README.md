@@ -1,4 +1,4 @@
-# Hi! My name is **Artyom Kozlov**!
+# Hi, my name is **Artyom Kozlov**!
 ## I'm beginner *developer* from Moscow.
 
 ### Languages and Technologies
