@@ -14,7 +14,7 @@
 
 
 ### Back-end
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-0d1117?style=for-the-badge&logo=c#&color=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-0d1117?style=for-the-badge&&color=whitelogo=c#)
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java&color=white)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0d1117?style=for-the-badge&logo=postgresql&color=white)
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python&color=white)
