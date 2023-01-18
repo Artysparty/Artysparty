@@ -4,7 +4,7 @@
 ### Languages and Technologies
 
 ### Front-end
-![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&color=white)
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5&color=black)
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3&color=white)
 ![Angular](https://img.shields.io/badge/-Angular-0d1117?style=for-the-badge&logo=angular&color=white)
 ![TypeScript](https://img.shields.io/badge/-Typescript-0d1117?style=for-the-badge&logo=typescript&color=white)
