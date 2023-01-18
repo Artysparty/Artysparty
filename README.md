@@ -1,5 +1,5 @@
 # :wave: Hi, my name is **Artyom Kozlov**!
-## I'm beginner *developer* from Moscow.
+## I'm *Angular web developer* from Moscow.
 
 ### Languages and Technologies
 
@@ -11,7 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript&color=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&color=white)
 ![JSON](https://img.shields.io/badge/-JSON-0d1117?style=for-the-badge&logo=json&color=white)
-
+![Nx](https://img.shields.io/badge/-Nx-0d1117?style=for-the-badge&logo=nx&color=white)
+![Jest](https://img.shields.io/badge/-Jest-0d1117?style=for-the-badge&logo=jest&color=white)
+![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=for-the-badge&logo=nestjs&color=white)
 
 ### Back-end
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-0d1117?style=for-the-badge&color=white&logo=c#)
